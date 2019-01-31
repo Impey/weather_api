@@ -8,7 +8,7 @@ class Weather
   end
 
   def forecast
-   Forecast.new
+    Forecast.new
   end
 
 end 
